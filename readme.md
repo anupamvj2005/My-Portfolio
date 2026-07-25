@@ -3,7 +3,7 @@
 A modern and responsive personal portfolio showcasing my projects, skills, research, and experience in **Embedded Systems, IoT, Automotive Electronics, and AI/ML**.
 
 ## 🌐 Live Demo
-🔗 https://your-vercel-link.vercel.app
+🔗 https://myportfolio-chi-snowy-69.vercel.app/
 
 ## ✨ Features
 - Responsive design
